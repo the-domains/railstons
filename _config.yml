@@ -1,28 +1,40 @@
-name: Railstons
 favicon: null
-layout_spectrum: 0.59149
-typography_spectrum: 0.92692
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Railstons
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#404041'
-    - '#ee3c2d'
-    - '#ff0000'
-    - '#000000'
-    - '#ff4000'
-  brandStrength: 0.3125
-  lightness: 0.24948617117479444
-  saturation: 0.5625
-  rhythmicContrast: 0.047430698992684484
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.7168459
+  brandStrength: 0.6971326
+  lightness: 0.5358423
+  brandColors:
+    - '#000002'
+    - '#5D636E'
+    - '#7E8089'
+    - '#151F31'
+    - '#ACACB3'
+  rhythmicContrast: 0.0474307
+typography_spectrum: 0.92692
+layout_spectrum: 0.59149
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
