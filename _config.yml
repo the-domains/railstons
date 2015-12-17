@@ -1,7 +1,7 @@
 name: Railstons
 favicon: null
-layout_spectrum: 0.5761565403081477
-typography_spectrum: 0.9083471386693418
+layout_spectrum: 0.59149
+typography_spectrum: 0.92692
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.265761332353577
+    - '#404041'
+    - '#ee3c2d'
+    - '#ff0000'
+    - '#000000'
+    - '#ff4000'
+  brandStrength: 0.3125
   lightness: 0.24948617117479444
-  saturation: 0.8440986974164844
+  saturation: 0.5625
   rhythmicContrast: 0.047430698992684484
 purpose: []
