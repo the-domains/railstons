@@ -1,9 +1,7 @@
-favicon: null
 name: Railstons
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.59149
+typography_spectrum: 0.92692
 collections:
   - index:
       path: /
@@ -16,25 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+title: The Life and Dreams of Ayrton Senna
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7168459
-  brandStrength: 0.6971326
-  lightness: 0.5358423
   brandColors:
     - '#000002'
     - '#5D636E'
     - '#7E8089'
     - '#151F31'
     - '#ACACB3'
+  brandStrength: 0.6971326
+  lightness: 0.5358423
+  saturation: 0.7168459
   rhythmicContrast: 0.0474307
-typography_spectrum: 0.92692
-layout_spectrum: 0.59149
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-cta:
-  bucket: null
-  version: null
-  domain: null
+purpose: []
